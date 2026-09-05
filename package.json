@@ -1,0 +1,9 @@
+{
+  "name": "editorelay-landing-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"dev": "vite --host 0.0.0.0", "build": "vite build", "preview": "vite preview --host 0.0.0.0", "test": "node tests/browser.mjs"},
+  "dependencies": {"@fontsource-variable/bricolage-grotesque": "^5.2.0", "@fontsource-variable/plus-jakarta-sans": "^5.2.0", "@fontsource-variable/geist-mono": "^5.2.0"},
+  "devDependencies": {"vite": "^6.1.0", "@playwright/test": "^1.51.0", "@axe-core/playwright": "^4.10.0"}
+}

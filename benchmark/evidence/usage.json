@@ -1,0 +1,17 @@
+{
+  "estimated_cost_usd": 0.0,
+  "cost_status": "included",
+  "cost_source": "none",
+  "input_tokens": 76541,
+  "output_tokens": 17469,
+  "cache_read_tokens": 1319424,
+  "cache_write_tokens": 0,
+  "reasoning_tokens": 251,
+  "total_tokens": 1413434,
+  "api_calls": 30,
+  "model": "gpt-6-astra",
+  "provider": "openai-codex",
+  "completed": true,
+  "failed": false,
+  "service_tier": null
+}

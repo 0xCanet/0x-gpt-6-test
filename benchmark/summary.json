@@ -1,0 +1,116 @@
+[
+  {
+    "label": "0x-gpt5-6-test",
+    "model": "gpt-5.6-sol",
+    "time": "9 min 16s",
+    "wall_seconds": 556.0247763309744,
+    "input_non_cached": 215519,
+    "output": 22085,
+    "cached": 1235072,
+    "total": 1472676,
+    "cost_status": "included",
+    "api_calls": 20,
+    "test_passes": [
+      10,
+      10
+    ],
+    "test_totals": [
+      12,
+      12
+    ],
+    "npm_vulnerabilities": {
+      "info": 0,
+      "low": 0,
+      "moderate": 0,
+      "high": 0,
+      "critical": 0,
+      "total": 0
+    },
+    "assets": {
+      ".html": {
+        "files": 1,
+        "bytes": 13589,
+        "gzip_bytes": 3968
+      },
+      ".js": {
+        "files": 1,
+        "bytes": 6697,
+        "gzip_bytes": 2559
+      },
+      ".css": {
+        "files": 1,
+        "bytes": 33088,
+        "gzip_bytes": 8015
+      },
+      ".woff2": {
+        "files": 15,
+        "bytes": 320044,
+        "gzip_bytes": 320416
+      },
+      ".svg": {
+        "files": 1,
+        "bytes": 536,
+        "gzip_bytes": 357
+      }
+    },
+    "render_height_1440": 4753,
+    "render_height_390": 6129
+  },
+  {
+    "label": "0x-gpt-6-test",
+    "model": "gpt-6-astra",
+    "time": "11 min 43s",
+    "wall_seconds": 702.6548062639777,
+    "input_non_cached": 76541,
+    "output": 17469,
+    "cached": 1319424,
+    "total": 1413434,
+    "cost_status": "included",
+    "api_calls": 30,
+    "test_passes": [
+      12,
+      12
+    ],
+    "test_totals": [
+      12,
+      12
+    ],
+    "npm_vulnerabilities": {
+      "info": 0,
+      "low": 0,
+      "moderate": 0,
+      "high": 0,
+      "critical": 0,
+      "total": 0
+    },
+    "assets": {
+      ".html": {
+        "files": 1,
+        "bytes": 10960,
+        "gzip_bytes": 3965
+      },
+      ".js": {
+        "files": 1,
+        "bytes": 6275,
+        "gzip_bytes": 2546
+      },
+      ".css": {
+        "files": 1,
+        "bytes": 21660,
+        "gzip_bytes": 6780
+      },
+      ".woff2": {
+        "files": 12,
+        "bytes": 196496,
+        "gzip_bytes": 196788
+      },
+      ".svg": {
+        "files": 1,
+        "bytes": 536,
+        "gzip_bytes": 357
+      }
+    },
+    "render_height_1440": 4156,
+    "render_height_390": 6100
+  }
+]

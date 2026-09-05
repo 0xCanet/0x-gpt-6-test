@@ -1,0 +1,164 @@
+[
+  {
+    "width": 1440,
+    "tests": [
+      {
+        "name": "CTA atteint la démonstration",
+        "pass": true
+      },
+      {
+        "name": "Quatre propositions distinctes et non vides",
+        "pass": true
+      },
+      {
+        "name": "Modification conservée après changement de réseau",
+        "pass": true
+      },
+      {
+        "name": "Rétablir restaure le texte original",
+        "pass": true
+      },
+      {
+        "name": "Garde-fou : texte vide non validable",
+        "pass": true,
+        "kind": "robustesse"
+      },
+      {
+        "name": "Validation explicitement locale",
+        "pass": true,
+        "observed": "Proposition Facebook validée dans la démo. Aucune publication réelle. Vous pouvez comparer un autre réseau."
+      },
+      {
+        "name": "Statut de validation conservé après changement de réseau",
+        "pass": true,
+        "kind": "robustesse"
+      },
+      {
+        "name": "Navigation des onglets aux flèches",
+        "pass": true
+      },
+      {
+        "name": "Aucune requête externe pendant le parcours",
+        "pass": true
+      },
+      {
+        "name": "Aucune erreur JavaScript pendant le parcours",
+        "pass": true
+      },
+      {
+        "name": "Pas de débordement dans la démo ouverte",
+        "pass": true
+      },
+      {
+        "name": "Axe sans violation dans la démo ouverte",
+        "pass": true
+      }
+    ],
+    "extra": [
+      {
+        "name": "Blocage Instagram sans image",
+        "pass": true
+      },
+      {
+        "name": "Retour après ajout image",
+        "pass": true
+      },
+      {
+        "name": "FAQ ouverte",
+        "pass": true,
+        "count": 5
+      }
+    ],
+    "invalidControls": [],
+    "axeViolations": [],
+    "errors": [],
+    "crossOrigin": [],
+    "texts": {
+      "facebook": "Et si votre prochaine pause lecture se passait au jardin ? Une bibliothèque de quartier installe des assises et une sélection de livres en plein air. Une autre façon de découvrir ce lieu, à retrouver dans notre article.",
+      "instagram": "Un livre, une assise, un jardin. La bibliothèque de quartier invite les habitants à lire en plein air et à découvrir le lieu autrement.\n\n#Lecture #Bibliothèque #VieLocale",
+      "linkedin": "Faire découvrir une bibliothèque en changeant le cadre de lecture : c’est le choix d’une équipe qui ouvre son jardin aux habitants. Des assises et une sélection de livres prolongent l’accueil hors les murs. Notre article présente cette initiative de proximité.",
+      "x": "La bibliothèque prend l’air : un espace de lecture ouvre dans son jardin, avec des assises et une sélection de livres. Une invitation à découvrir le lieu autrement. À lire dans notre article."
+    }
+  },
+  {
+    "width": 390,
+    "tests": [
+      {
+        "name": "CTA atteint la démonstration",
+        "pass": true
+      },
+      {
+        "name": "Quatre propositions distinctes et non vides",
+        "pass": true
+      },
+      {
+        "name": "Modification conservée après changement de réseau",
+        "pass": true
+      },
+      {
+        "name": "Rétablir restaure le texte original",
+        "pass": true
+      },
+      {
+        "name": "Garde-fou : texte vide non validable",
+        "pass": true,
+        "kind": "robustesse"
+      },
+      {
+        "name": "Validation explicitement locale",
+        "pass": true,
+        "observed": "Proposition Facebook validée dans la démo. Aucune publication réelle. Vous pouvez comparer un autre réseau."
+      },
+      {
+        "name": "Statut de validation conservé après changement de réseau",
+        "pass": true,
+        "kind": "robustesse"
+      },
+      {
+        "name": "Navigation des onglets aux flèches",
+        "pass": true
+      },
+      {
+        "name": "Aucune requête externe pendant le parcours",
+        "pass": true
+      },
+      {
+        "name": "Aucune erreur JavaScript pendant le parcours",
+        "pass": true
+      },
+      {
+        "name": "Pas de débordement dans la démo ouverte",
+        "pass": true
+      },
+      {
+        "name": "Axe sans violation dans la démo ouverte",
+        "pass": true
+      }
+    ],
+    "extra": [
+      {
+        "name": "Blocage Instagram sans image",
+        "pass": true
+      },
+      {
+        "name": "Retour après ajout image",
+        "pass": true
+      },
+      {
+        "name": "FAQ ouverte",
+        "pass": true,
+        "count": 5
+      }
+    ],
+    "invalidControls": [],
+    "axeViolations": [],
+    "errors": [],
+    "crossOrigin": [],
+    "texts": {
+      "facebook": "Et si votre prochaine pause lecture se passait au jardin ? Une bibliothèque de quartier installe des assises et une sélection de livres en plein air. Une autre façon de découvrir ce lieu, à retrouver dans notre article.",
+      "instagram": "Un livre, une assise, un jardin. La bibliothèque de quartier invite les habitants à lire en plein air et à découvrir le lieu autrement.\n\n#Lecture #Bibliothèque #VieLocale",
+      "linkedin": "Faire découvrir une bibliothèque en changeant le cadre de lecture : c’est le choix d’une équipe qui ouvre son jardin aux habitants. Des assises et une sélection de livres prolongent l’accueil hors les murs. Notre article présente cette initiative de proximité.",
+      "x": "La bibliothèque prend l’air : un espace de lecture ouvre dans son jardin, avec des assises et une sélection de livres. Une invitation à découvrir le lieu autrement. À lire dans notre article."
+    }
+  }
+]

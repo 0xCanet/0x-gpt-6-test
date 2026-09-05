@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="84" viewBox="0 0 360 84" role="img" aria-labelledby="title">
+  <title id="title">EditoRelay</title>
+  <g transform="translate(0 5.75) scale(2.5)" fill="#c7f36b">
+    <path d="M2 5.5h15.5l4.5 4.5-4.5 4.5H2l4.5-4.5L2 5.5Z"/>
+    <path d="M10 14.5h15.5L30 19l-4.5 4.5H10l4.5-4.5-4.5-4.5Z"/>
+  </g>
+  <text x="91" y="56" fill="#fffdf8" font-family="Bricolage Grotesque, Arial, Helvetica, sans-serif" font-size="39" font-weight="600" letter-spacing="-1.2">EditoRelay</text>
+</svg>

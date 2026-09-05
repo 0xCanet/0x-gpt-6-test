@@ -1,0 +1,941 @@
+[
+  {
+    "width": 1440,
+    "httpStatus": 200,
+    "elapsedMs": 1826.1795200000001,
+    "errors": [],
+    "failed": [],
+    "requests": [
+      {
+        "url": "http://127.0.0.1:8312/",
+        "method": "GET",
+        "resourceType": "document"
+      },
+      {
+        "url": "http://127.0.0.1:8312/assets/index-CE30XqMk.js",
+        "method": "GET",
+        "resourceType": "script"
+      },
+      {
+        "url": "http://127.0.0.1:8312/assets/index-VRA7ZK_4.css",
+        "method": "GET",
+        "resourceType": "stylesheet"
+      },
+      {
+        "url": "http://127.0.0.1:8312/assets/editorelay-email-logo.svg",
+        "method": "GET",
+        "resourceType": "image"
+      },
+      {
+        "url": "http://127.0.0.1:8312/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2",
+        "method": "GET",
+        "resourceType": "font"
+      },
+      {
+        "url": "http://127.0.0.1:8312/assets/bricolage-grotesque-latin-wght-normal-DLoelf7F.woff2",
+        "method": "GET",
+        "resourceType": "font"
+      },
+      {
+        "url": "http://127.0.0.1:8312/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+        "method": "GET",
+        "resourceType": "font"
+      }
+    ],
+    "dom": {
+      "title": "EditoRelay — Vos articles, au-delà de la une.",
+      "lang": "fr",
+      "robots": "noindex,nofollow",
+      "viewport": 1440,
+      "scrollWidth": 1440,
+      "height": 4156,
+      "h1": [
+        "Vos articles,\nau-delà\nde la une."
+      ],
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "La bibliothèque\nprend l’air."
+        },
+        {
+          "tag": "H2",
+          "text": "L’article est écrit.\nLe relais peut commencer."
+        },
+        {
+          "tag": "H3",
+          "text": "Votre média publie."
+        },
+        {
+          "tag": "H3",
+          "text": "Chaque réseau a son texte."
+        },
+        {
+          "tag": "H3",
+          "text": "Vous fixez la suite."
+        },
+        {
+          "tag": "H2",
+          "text": "Un article.\nÀ vous de passer le relais."
+        },
+        {
+          "tag": "H3",
+          "text": "La bibliothèque prend l’air : un jardin pour lire autrement"
+        },
+        {
+          "tag": "H3",
+          "text": "2. Comparer les propositions"
+        },
+        {
+          "tag": "H2",
+          "text": "L’automatisation\nne remplace pas\nvotre regard."
+        },
+        {
+          "tag": "H3",
+          "text": "Le bon angle mérite votre attention."
+        },
+        {
+          "tag": "H3",
+          "text": "La cause est visible. La suite aussi."
+        },
+        {
+          "tag": "H3",
+          "text": "Le reste peut avancer."
+        },
+        {
+          "tag": "H2",
+          "text": "Avant de passer\nle relais."
+        },
+        {
+          "tag": "H2",
+          "text": "Votre prochain article\na plusieurs vies."
+        }
+      ],
+      "text": "Aller au contenu\nLe fonctionnement\nLes questions\nExplorer la démo\n↗\nVos articles,\nau-delà\nde la une.\n\nRédacteurs en chef, faites vivre vos articles sur les réseaux, sans reprendre chaque publication de zéro.\n\nEditoRelay détecte les nouveaux articles de votre média et prépare une proposition pour Facebook, Instagram, LinkedIn et X. Vous gardez la main sur ce qui part.\n\nD’un article aux réseaux\n↗\n\nDémonstration locale · Sans compte · Rien n’est publié\n\nLE JOURNAL\nÉdition de démonstration\nLa vie locale\nLa bibliothèque\nprend l’air.\n\nUne bibliothèque de quartier installe un espace de lecture dans son jardin.\n\nUn même sujet.\nChaque réseau, son angle.\nin\nLinkedIn\n\nLa lecture hors les murs : un autre rôle pour les bibliothèques de quartier.\n\nf\nFacebook\n\nEt si votre prochaine pause lecture se passait au jardin ?\n\nInstagram\nX\nExemples fictifs\nVotre matière : l’article.\nVotre signature : la voix du média.\nVotre décision : la diffusion.\nL’article est écrit.\nLe relais peut commencer.\n\nVotre rédaction produit l’information. EditoRelay prépare sa diffusion, selon votre voix éditoriale et vos règles.\n\n1\nVotre média publie.\n\nUn nouvel article est détecté depuis vos flux RSS, Atom ou les sitemaps pris en charge.\n\n2\nChaque réseau a son texte.\n\nQuatre propositions distinctes sont préparées. Vous comparez les angles et ajustez les formulations.\n\n3\nVous fixez la suite.\n\nRelisez avant publication ou laissez diffuser selon vos règles. L’historique permet de vérifier ce qui est parti.\n\nUn article.\nÀ vous de passer le relais.\n\nChoisissez un sujet, explorez ses propositions et retouchez le texte. Le jugement éditorial, c’est le vôtre.\n\nDémo locale · Exemples fictifs et préécrits.\nAucune génération distante ni publication.\n\n1. Choisir un article de démonstration\nCulture · La bibliothèque au jardin\nMobilités · Le vélo après la nuit\nARTICLE SOURCE · FICTIF\nLa bibliothèque prend l’air : un jardin pour lire autrement\n\nUne bibliothèque de quartier ouvre un espace de lecture dans son jardin. Des assises et une sélection de livres y accueillent les lecteurs. L’équipe souhaite proposer un autre cadre de lecture et faire découvrir le lieu aux habitants.\n\nVoix de démonstration\nClaire, locale, sans emphase.\nImage principale exploitable\n\nDécochez pour explorer le blocage Instagram.\n\n2. Comparer les propositions\nLOCAL\nFacebook\nInstagram\nLinkedIn\nX\n\nFacebook · Une accroche de proximité pour ouvrir la lecture.\n\nVotre proposition, modifiable\nModifications conservées dans cette page uniquement.\n219 car.\nÀ relire — vous pouvez modifier ce texte avant de simuler sa validation.\nValider dans la démo\n↗\nRétablir ce texte\n\nLa validation sera simulée. Rien ne sera envoyé.\n\nPas d’URL à fournir, pas de compte à connecter. Rechargez la page pour effacer vos modifications.\n\nL’automatisation\nne remplace pas\nvotre regard.\n\nElle prépare le terrain. Vous décidez où votre intervention compte.\n\nEssayer la relecture\n↗\nÀ relire\nLe bon angle mérite votre attention.\n\nOuvrez un article, relisez ses propositions, modifiez le texte et choisissez ce qui peut être publié.\n\nDiffusion bloquée\nLa cause est visible. La suite aussi.\n\nUne image inexploitable sur Instagram ou une connexion sociale absente ou expirée peut bloquer le réseau concerné. Corrigez le préalable avant de diffuser.\n\nSelon vos règles\nLe reste peut avancer.\n\nActivez la publication automatique selon les choix de votre média. Retrouvez ensuite les diffusions dans l’historique.\n\nAvant de passer\nle relais.\nFaut-il changer notre façon de publier les articles ?\nPeut-on relire avant toute publication ?\nQuels réseaux sont pris en charge ?\nQue fait réellement cette démonstration ?\nMes données sont-elles collectées sur cette page ?\nVotre prochain article\na plusieurs vies.\n\nExplorez ce qu’EditoRelay prépare pour chacune.\n\nExplorer la démonstration\n↗\n\nPrototype de comparaison indépendant du site officiel.\nAucune collecte de données. Aucune publication réelle.\n\nRetour en haut ↑",
+      "links": [
+        {
+          "text": "Aller au contenu",
+          "href": "#contenu",
+          "validAnchor": true
+        },
+        {
+          "text": "",
+          "href": "#haut",
+          "validAnchor": true
+        },
+        {
+          "text": "Le fonctionnement",
+          "href": "#fonctionnement",
+          "validAnchor": true
+        },
+        {
+          "text": "Les questions",
+          "href": "#questions",
+          "validAnchor": true
+        },
+        {
+          "text": "Explorer la démo\n↗",
+          "href": "#demo",
+          "validAnchor": true
+        },
+        {
+          "text": "D’un article aux réseaux\n↗",
+          "href": "#demo",
+          "validAnchor": true
+        },
+        {
+          "text": "Essayer la relecture\n↗",
+          "href": "#demo",
+          "validAnchor": true
+        },
+        {
+          "text": "Explorer la démonstration\n↗",
+          "href": "#demo",
+          "validAnchor": true
+        },
+        {
+          "text": "",
+          "href": "#haut",
+          "validAnchor": true
+        },
+        {
+          "text": "Retour en haut ↑",
+          "href": "#haut",
+          "validAnchor": true
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Facebook",
+          "label": null,
+          "role": "tab",
+          "id": "tab-facebook"
+        },
+        {
+          "text": "Instagram",
+          "label": null,
+          "role": "tab",
+          "id": "tab-instagram"
+        },
+        {
+          "text": "LinkedIn",
+          "label": null,
+          "role": "tab",
+          "id": "tab-linkedin"
+        },
+        {
+          "text": "X",
+          "label": null,
+          "role": "tab",
+          "id": "tab-x"
+        },
+        {
+          "text": "Valider dans la démo\n↗",
+          "label": null,
+          "role": null,
+          "id": "approve"
+        },
+        {
+          "text": "Rétablir ce texte",
+          "label": null,
+          "role": null,
+          "id": "restore"
+        }
+      ],
+      "images": [
+        {
+          "src": "./assets/editorelay-email-logo.svg",
+          "alt": "EditoRelay",
+          "loaded": true
+        },
+        {
+          "src": "./assets/editorelay-email-logo.svg",
+          "alt": "EditoRelay",
+          "loaded": true
+        }
+      ],
+      "fonts": [
+        "\"Bricolage Grotesque Variable\", sans-serif",
+        "\"Plus Jakarta Sans Variable\", sans-serif"
+      ],
+      "resources": [
+        {
+          "name": "http://127.0.0.1:8312/assets/index-CE30XqMk.js",
+          "transferSize": 6575,
+          "decodedBodySize": 6275
+        },
+        {
+          "name": "http://127.0.0.1:8312/assets/editorelay-email-logo.svg",
+          "transferSize": 836,
+          "decodedBodySize": 536
+        },
+        {
+          "name": "http://127.0.0.1:8312/assets/index-VRA7ZK_4.css",
+          "transferSize": 21960,
+          "decodedBodySize": 21660
+        },
+        {
+          "name": "http://127.0.0.1:8312/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2",
+          "transferSize": 27648,
+          "decodedBodySize": 27348
+        },
+        {
+          "name": "http://127.0.0.1:8312/assets/bricolage-grotesque-latin-wght-normal-DLoelf7F.woff2",
+          "transferSize": 41644,
+          "decodedBodySize": 41344
+        },
+        {
+          "name": "http://127.0.0.1:8312/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+          "transferSize": 23428,
+          "decodedBodySize": 23128
+        },
+        {
+          "name": "http://127.0.0.1:8312/favicon.ico",
+          "transferSize": 760,
+          "decodedBodySize": 460
+        }
+      ],
+      "navigation": [
+        {
+          "duration": 113,
+          "domContentLoaded": 41,
+          "load": 113
+        }
+      ]
+    },
+    "keyboard": [
+      {
+        "tag": "A",
+        "text": "Aller au contenu",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "A",
+        "text": "",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Le fonctionnement",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Les questions",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Explorer la démo\n↗",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "A",
+        "text": "D’un article aux réseaux\n↗",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "SELECT",
+        "text": "Culture · La bibliothèque au jardin\nMobilités · Le vélo après la nuit",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "INPUT",
+        "text": "",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Facebook",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "TEXTAREA",
+        "text": "",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      }
+    ],
+    "axe": {
+      "passes": 31,
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "tags": [
+            "cat.aria",
+            "wcag2a",
+            "wcag412",
+            "EN-301-549",
+            "EN-9.4.1.2",
+            "RGAAv4",
+            "RGAA-7.1.1"
+          ],
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "help": "Elements must only use permitted ARIA attributes",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-prohibited-attr?application=playwright",
+          "nodes": [
+            {
+              "any": [],
+              "all": [],
+              "none": [
+                {
+                  "id": "aria-prohibited-attr",
+                  "data": {
+                    "role": null,
+                    "nodeName": "div",
+                    "messageKey": "noRoleSingular",
+                    "prohibited": [
+                      "aria-label"
+                    ]
+                  },
+                  "relatedNodes": [],
+                  "impact": "serious",
+                  "message": "aria-label attribute is not well supported on a div with no valid role attribute."
+                }
+              ],
+              "impact": "serious",
+              "html": "<div class=\"relay-art\" aria-label=\"Illustration : un article décliné en quatre propositions sociales fictives\">",
+              "target": [
+                ".relay-art"
+              ],
+              "failureSummary": "Fix all of the following:\n  aria-label attribute is not well supported on a div with no valid role attribute."
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT",
+            "RGAAv4",
+            "RGAA-3.2.1"
+          ],
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "nodes": [
+            {
+              "any": [
+                {
+                  "id": "color-contrast",
+                  "data": {
+                    "contrastRatio": 0,
+                    "fontSize": "7.5pt (10px)",
+                    "fontWeight": "normal",
+                    "messageKey": "bgOverlap",
+                    "expectedContrastRatio": "4.5:1"
+                  },
+                  "relatedNodes": [],
+                  "impact": "serious",
+                  "message": "Element's background color could not be determined because it is overlapped by another element"
+                }
+              ],
+              "all": [],
+              "none": [],
+              "impact": "serious",
+              "html": "<div class=\"sheet-section\">La vie locale</div>",
+              "target": [
+                ".sheet-section"
+              ],
+              "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+            },
+            {
+              "any": [
+                {
+                  "id": "color-contrast",
+                  "data": {
+                    "contrastRatio": 0,
+                    "fontSize": "8.3pt (11px)",
+                    "fontWeight": "normal",
+                    "messageKey": "bgOverlap",
+                    "expectedContrastRatio": "4.5:1"
+                  },
+                  "relatedNodes": [],
+                  "impact": "serious",
+                  "message": "Element's background color could not be determined because it is overlapped by another element"
+                }
+              ],
+              "all": [],
+              "none": [],
+              "impact": "serious",
+              "html": "<p>Une bibliothèque de quartier installe un espace de lecture dans son jardin.</p>",
+              "target": [
+                ".source-sheet > p"
+              ],
+              "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+            },
+            {
+              "any": [
+                {
+                  "id": "color-contrast",
+                  "data": {
+                    "contrastRatio": 0,
+                    "fontSize": "15.0pt (20px)",
+                    "fontWeight": "normal",
+                    "messageKey": "elmPartiallyObscuring",
+                    "expectedContrastRatio": "4.5:1"
+                  },
+                  "relatedNodes": [],
+                  "impact": "serious",
+                  "message": "Element's background color could not be determined because it partially overlaps other elements"
+                }
+              ],
+              "all": [],
+              "none": [],
+              "impact": "serious",
+              "html": "<p>La lecture hors les murs : un autre rôle pour les bibliothèques de quartier.</p>",
+              "target": [
+                ".slip-one > div > p"
+              ],
+              "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it partially overlaps other elements"
+            }
+          ]
+        }
+      ],
+      "violations": []
+    }
+  },
+  {
+    "width": 390,
+    "httpStatus": 200,
+    "elapsedMs": 1579.320494,
+    "errors": [],
+    "failed": [],
+    "requests": [
+      {
+        "url": "http://127.0.0.1:8312/",
+        "method": "GET",
+        "resourceType": "document"
+      },
+      {
+        "url": "http://127.0.0.1:8312/assets/index-CE30XqMk.js",
+        "method": "GET",
+        "resourceType": "script"
+      },
+      {
+        "url": "http://127.0.0.1:8312/assets/index-VRA7ZK_4.css",
+        "method": "GET",
+        "resourceType": "stylesheet"
+      },
+      {
+        "url": "http://127.0.0.1:8312/assets/editorelay-email-logo.svg",
+        "method": "GET",
+        "resourceType": "image"
+      },
+      {
+        "url": "http://127.0.0.1:8312/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2",
+        "method": "GET",
+        "resourceType": "font"
+      },
+      {
+        "url": "http://127.0.0.1:8312/assets/bricolage-grotesque-latin-wght-normal-DLoelf7F.woff2",
+        "method": "GET",
+        "resourceType": "font"
+      },
+      {
+        "url": "http://127.0.0.1:8312/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+        "method": "GET",
+        "resourceType": "font"
+      }
+    ],
+    "dom": {
+      "title": "EditoRelay — Vos articles, au-delà de la une.",
+      "lang": "fr",
+      "robots": "noindex,nofollow",
+      "viewport": 390,
+      "scrollWidth": 390,
+      "height": 6100,
+      "h1": [
+        "Vos articles,\nau-delàde la une."
+      ],
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "La bibliothèque\nprend l’air."
+        },
+        {
+          "tag": "H2",
+          "text": "L’article est écrit.\nLe relais peut commencer."
+        },
+        {
+          "tag": "H3",
+          "text": "Votre média publie."
+        },
+        {
+          "tag": "H3",
+          "text": "Chaque réseau a son texte."
+        },
+        {
+          "tag": "H3",
+          "text": "Vous fixez la suite."
+        },
+        {
+          "tag": "H2",
+          "text": "Un article.\nÀ vous de passer le relais."
+        },
+        {
+          "tag": "H3",
+          "text": "La bibliothèque prend l’air : un jardin pour lire autrement"
+        },
+        {
+          "tag": "H3",
+          "text": "2. Comparer les propositions"
+        },
+        {
+          "tag": "H2",
+          "text": "L’automatisation\nne remplace pas\nvotre regard."
+        },
+        {
+          "tag": "H3",
+          "text": "Le bon angle mérite votre attention."
+        },
+        {
+          "tag": "H3",
+          "text": "La cause est visible. La suite aussi."
+        },
+        {
+          "tag": "H3",
+          "text": "Le reste peut avancer."
+        },
+        {
+          "tag": "H2",
+          "text": "Avant de passer\nle relais."
+        },
+        {
+          "tag": "H2",
+          "text": "Votre prochain article\na plusieurs vies."
+        }
+      ],
+      "text": "Aller au contenu\nLe fonctionnement\nLes questions\nExplorer la démo\n↗\nVos articles,\nau-delàde la une.\n\nRédacteurs en chef, faites vivre vos articles sur les réseaux, sans reprendre chaque publication de zéro.\n\nEditoRelay détecte les nouveaux articles de votre média et prépare une proposition pour Facebook, Instagram, LinkedIn et X. Vous gardez la main sur ce qui part.\n\nD’un article aux réseaux\n↗\n\nDémonstration locale · Sans compte · Rien n’est publié\n\nLE JOURNAL\nÉdition de démonstration\nLa vie locale\nLa bibliothèque\nprend l’air.\n\nUne bibliothèque de quartier installe un espace de lecture dans son jardin.\n\nUn même sujet.\nChaque réseau, son angle.\nin\nLinkedIn\n\nLa lecture hors les murs : un autre rôle pour les bibliothèques de quartier.\n\nf\nFacebook\n\nEt si votre prochaine pause lecture se passait au jardin ?\n\nInstagram\nX\nExemples fictifs\nVotre matière : l’article.\nVotre signature : la voix du média.\nVotre décision : la diffusion.\nL’article est écrit.\nLe relais peut commencer.\n\nVotre rédaction produit l’information. EditoRelay prépare sa diffusion, selon votre voix éditoriale et vos règles.\n\n1\nVotre média publie.\n\nUn nouvel article est détecté depuis vos flux RSS, Atom ou les sitemaps pris en charge.\n\n2\nChaque réseau a son texte.\n\nQuatre propositions distinctes sont préparées. Vous comparez les angles et ajustez les formulations.\n\n3\nVous fixez la suite.\n\nRelisez avant publication ou laissez diffuser selon vos règles. L’historique permet de vérifier ce qui est parti.\n\nUn article.\nÀ vous de passer le relais.\n\nChoisissez un sujet, explorez ses propositions et retouchez le texte. Le jugement éditorial, c’est le vôtre.\n\nDémo locale · Exemples fictifs et préécrits.\nAucune génération distante ni publication.\n\n1. Choisir un article de démonstration\nCulture · La bibliothèque au jardin\nMobilités · Le vélo après la nuit\nARTICLE SOURCE · FICTIF\nLa bibliothèque prend l’air : un jardin pour lire autrement\n\nUne bibliothèque de quartier ouvre un espace de lecture dans son jardin. Des assises et une sélection de livres y accueillent les lecteurs. L’équipe souhaite proposer un autre cadre de lecture et faire découvrir le lieu aux habitants.\n\nVoix de démonstration\nClaire, locale, sans emphase.\nImage principale exploitable\n\nDécochez pour explorer le blocage Instagram.\n\n2. Comparer les propositions\nLOCAL\nFacebook\nInstagram\nLinkedIn\nX\n\nFacebook · Une accroche de proximité pour ouvrir la lecture.\n\nVotre proposition, modifiable\nModifications conservées dans cette page uniquement.\n219 car.\nÀ relire — vous pouvez modifier ce texte avant de simuler sa validation.\nValider dans la démo\n↗\nRétablir ce texte\n\nLa validation sera simulée. Rien ne sera envoyé.\n\nPas d’URL à fournir, pas de compte à connecter. Rechargez la page pour effacer vos modifications.\n\nL’automatisation\nne remplace pas\nvotre regard.\n\nElle prépare le terrain. Vous décidez où votre intervention compte.\n\nEssayer la relecture\n↗\nÀ relire\nLe bon angle mérite votre attention.\n\nOuvrez un article, relisez ses propositions, modifiez le texte et choisissez ce qui peut être publié.\n\nDiffusion bloquée\nLa cause est visible. La suite aussi.\n\nUne image inexploitable sur Instagram ou une connexion sociale absente ou expirée peut bloquer le réseau concerné. Corrigez le préalable avant de diffuser.\n\nSelon vos règles\nLe reste peut avancer.\n\nActivez la publication automatique selon les choix de votre média. Retrouvez ensuite les diffusions dans l’historique.\n\nAvant de passer\nle relais.\nFaut-il changer notre façon de publier les articles ?\nPeut-on relire avant toute publication ?\nQuels réseaux sont pris en charge ?\nQue fait réellement cette démonstration ?\nMes données sont-elles collectées sur cette page ?\nVotre prochain article\na plusieurs vies.\n\nExplorez ce qu’EditoRelay prépare pour chacune.\n\nExplorer la démonstration\n↗\n\nPrototype de comparaison indépendant du site officiel.\nAucune collecte de données. Aucune publication réelle.\n\nRetour en haut ↑",
+      "links": [
+        {
+          "text": "Aller au contenu",
+          "href": "#contenu",
+          "validAnchor": true
+        },
+        {
+          "text": "",
+          "href": "#haut",
+          "validAnchor": true
+        },
+        {
+          "text": "Le fonctionnement",
+          "href": "#fonctionnement",
+          "validAnchor": true
+        },
+        {
+          "text": "Les questions",
+          "href": "#questions",
+          "validAnchor": true
+        },
+        {
+          "text": "Explorer la démo\n↗",
+          "href": "#demo",
+          "validAnchor": true
+        },
+        {
+          "text": "D’un article aux réseaux\n↗",
+          "href": "#demo",
+          "validAnchor": true
+        },
+        {
+          "text": "Essayer la relecture\n↗",
+          "href": "#demo",
+          "validAnchor": true
+        },
+        {
+          "text": "Explorer la démonstration\n↗",
+          "href": "#demo",
+          "validAnchor": true
+        },
+        {
+          "text": "",
+          "href": "#haut",
+          "validAnchor": true
+        },
+        {
+          "text": "Retour en haut ↑",
+          "href": "#haut",
+          "validAnchor": true
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Facebook",
+          "label": null,
+          "role": "tab",
+          "id": "tab-facebook"
+        },
+        {
+          "text": "Instagram",
+          "label": null,
+          "role": "tab",
+          "id": "tab-instagram"
+        },
+        {
+          "text": "LinkedIn",
+          "label": null,
+          "role": "tab",
+          "id": "tab-linkedin"
+        },
+        {
+          "text": "X",
+          "label": null,
+          "role": "tab",
+          "id": "tab-x"
+        },
+        {
+          "text": "Valider dans la démo\n↗",
+          "label": null,
+          "role": null,
+          "id": "approve"
+        },
+        {
+          "text": "Rétablir ce texte",
+          "label": null,
+          "role": null,
+          "id": "restore"
+        }
+      ],
+      "images": [
+        {
+          "src": "./assets/editorelay-email-logo.svg",
+          "alt": "EditoRelay",
+          "loaded": true
+        },
+        {
+          "src": "./assets/editorelay-email-logo.svg",
+          "alt": "EditoRelay",
+          "loaded": true
+        }
+      ],
+      "fonts": [
+        "\"Bricolage Grotesque Variable\", sans-serif",
+        "\"Plus Jakarta Sans Variable\", sans-serif"
+      ],
+      "resources": [
+        {
+          "name": "http://127.0.0.1:8312/assets/index-CE30XqMk.js",
+          "transferSize": 6575,
+          "decodedBodySize": 6275
+        },
+        {
+          "name": "http://127.0.0.1:8312/assets/index-VRA7ZK_4.css",
+          "transferSize": 21960,
+          "decodedBodySize": 21660
+        },
+        {
+          "name": "http://127.0.0.1:8312/assets/editorelay-email-logo.svg",
+          "transferSize": 836,
+          "decodedBodySize": 536
+        },
+        {
+          "name": "http://127.0.0.1:8312/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2",
+          "transferSize": 27648,
+          "decodedBodySize": 27348
+        },
+        {
+          "name": "http://127.0.0.1:8312/assets/bricolage-grotesque-latin-wght-normal-DLoelf7F.woff2",
+          "transferSize": 41644,
+          "decodedBodySize": 41344
+        },
+        {
+          "name": "http://127.0.0.1:8312/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+          "transferSize": 23428,
+          "decodedBodySize": 23128
+        }
+      ],
+      "navigation": [
+        {
+          "duration": 86.70000004768372,
+          "domContentLoaded": 26.200000047683716,
+          "load": 86.70000004768372
+        }
+      ]
+    },
+    "keyboard": [
+      {
+        "tag": "A",
+        "text": "Aller au contenu",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "A",
+        "text": "",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Le fonctionnement",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Les questions",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Explorer la démo\n↗",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "A",
+        "text": "D’un article aux réseaux\n↗",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "SELECT",
+        "text": "Culture · La bibliothèque au jardin\nMobilités · Le vélo après la nuit",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "INPUT",
+        "text": "",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Facebook",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "TEXTAREA",
+        "text": "",
+        "outline": "rgb(75, 140, 189) solid 3px",
+        "boxShadow": "none"
+      }
+    ],
+    "axe": {
+      "passes": 31,
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "tags": [
+            "cat.aria",
+            "wcag2a",
+            "wcag412",
+            "EN-301-549",
+            "EN-9.4.1.2",
+            "RGAAv4",
+            "RGAA-7.1.1"
+          ],
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "help": "Elements must only use permitted ARIA attributes",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-prohibited-attr?application=playwright",
+          "nodes": [
+            {
+              "any": [],
+              "all": [],
+              "none": [
+                {
+                  "id": "aria-prohibited-attr",
+                  "data": {
+                    "role": null,
+                    "nodeName": "div",
+                    "messageKey": "noRoleSingular",
+                    "prohibited": [
+                      "aria-label"
+                    ]
+                  },
+                  "relatedNodes": [],
+                  "impact": "serious",
+                  "message": "aria-label attribute is not well supported on a div with no valid role attribute."
+                }
+              ],
+              "impact": "serious",
+              "html": "<div class=\"relay-art\" aria-label=\"Illustration : un article décliné en quatre propositions sociales fictives\">",
+              "target": [
+                ".relay-art"
+              ],
+              "failureSummary": "Fix all of the following:\n  aria-label attribute is not well supported on a div with no valid role attribute."
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT",
+            "RGAAv4",
+            "RGAA-3.2.1"
+          ],
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "nodes": [
+            {
+              "any": [
+                {
+                  "id": "color-contrast",
+                  "data": {
+                    "contrastRatio": 0,
+                    "fontSize": "7.5pt (10px)",
+                    "fontWeight": "normal",
+                    "messageKey": "bgOverlap",
+                    "expectedContrastRatio": "4.5:1"
+                  },
+                  "relatedNodes": [],
+                  "impact": "serious",
+                  "message": "Element's background color could not be determined because it is overlapped by another element"
+                }
+              ],
+              "all": [],
+              "none": [],
+              "impact": "serious",
+              "html": "<div class=\"sheet-section\">La vie locale</div>",
+              "target": [
+                ".sheet-section"
+              ],
+              "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+            },
+            {
+              "any": [
+                {
+                  "id": "color-contrast",
+                  "data": {
+                    "contrastRatio": 0,
+                    "fontSize": "8.3pt (11px)",
+                    "fontWeight": "normal",
+                    "messageKey": "bgOverlap",
+                    "expectedContrastRatio": "4.5:1"
+                  },
+                  "relatedNodes": [],
+                  "impact": "serious",
+                  "message": "Element's background color could not be determined because it is overlapped by another element"
+                }
+              ],
+              "all": [],
+              "none": [],
+              "impact": "serious",
+              "html": "<p>Une bibliothèque de quartier installe un espace de lecture dans son jardin.</p>",
+              "target": [
+                ".source-sheet > p"
+              ],
+              "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+            },
+            {
+              "any": [
+                {
+                  "id": "color-contrast",
+                  "data": {
+                    "contrastRatio": 0,
+                    "fontSize": "13.5pt (18px)",
+                    "fontWeight": "normal",
+                    "messageKey": "elmPartiallyObscuring",
+                    "expectedContrastRatio": "4.5:1"
+                  },
+                  "relatedNodes": [],
+                  "impact": "serious",
+                  "message": "Element's background color could not be determined because it partially overlaps other elements"
+                }
+              ],
+              "all": [],
+              "none": [],
+              "impact": "serious",
+              "html": "<p>La lecture hors les murs : un autre rôle pour les bibliothèques de quartier.</p>",
+              "target": [
+                ".slip-one > div > p"
+              ],
+              "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it partially overlaps other elements"
+            }
+          ]
+        }
+      ],
+      "violations": []
+    }
+  }
+]
